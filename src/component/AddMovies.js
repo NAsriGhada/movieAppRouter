@@ -44,7 +44,7 @@ const AddMovies = ({ addmovies }) => {
           />
         </div>
         <div>
-          <label>Phote</label>
+          <label>Photo</label>
           <input
             type="text"
             onChange={(e) => setPhoto(e.target.value)}
